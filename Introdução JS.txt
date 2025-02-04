@@ -1,0 +1,28 @@
+Introdução JS
+
+- É uma linguagem interpretada
+
+- Uma tipagem dinâmica fraca, podendo alterar a variável a qualquer momento, substituindo a antiga
+
+- Multiparadigma
+
+- Principal linguagem CLIENT-SIDE 
+   - SERVER-SIDE
+   - NODE.JS
+
+- JS X EcmaScript
+
+Pesquisar no YT
+
+-Eslint
+-Prettier
+-CODERUNNER
+
+
+ESLINT- Analisa esteticamente seu código para encontrar problemas rapidamente. É implementado nas maiorias dos editores de texto e você pode usa-lo como parte do seu processo de integração continua 
+
+PRETTIER- Formatador de código, ou seja, uma ferramenta que faz a formatação nos seus códigos corrigindo aspectos como espaçamentos, virgulas e etc. Resumidamente, essa ferramenta faz com que seu código fique mais bonito, e siga algumas regras de estilo.
+
+CODERUNNER- Esta extensão fornece uma maneira conveniente de executar rapidamente trechos de código ou arquivos inteiros em varias linguagens de programação a partir do vs code (javascript, phyton, java, c++).
+
+       
