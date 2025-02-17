@@ -45,3 +45,6 @@ function dividir() {
         alert('Por favor, insira números válidos!');
     }
 }
+
+
+
